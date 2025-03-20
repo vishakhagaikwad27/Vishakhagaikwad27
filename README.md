@@ -12,8 +12,8 @@
 </div>
 
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Vishakhagaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="Vishakhagaikwad" /></p>
-<h3 align="center"Talk is cheap Show me the code..!</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Tejswinisutar&label=Profile%20views&color=0e75b6&style=flat" alt="Vishakhagaikwad" /></p>
+<h3 align="center">Talk is cheap Show me the code..!</h3>
 
 - 🔭 I’m currently working as C#.Net & Web Developer.
 - 👀 I’m interested in full-stack developement, I also love blockchain technologies.
